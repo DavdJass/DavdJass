@@ -20,7 +20,7 @@ Software Engineer | C# .NET Developer | Backend
   * HackMex IPN 2024 - Mexico |🎯Qualifying round
   * Talent Land Hackathon 2024 - Jalisco, Mexico |🏆Semifinalist
   * SmartSecurity Hackaton 2023 - Aguascalientes, Mexico |🎯Qualifying round
-* 📫 How to reach me: linkedin.com/in/davfigjassç
+* 📫 How to reach me: linkedin.com/in/davfigjass
 
 ## 🛠 Skills
 💻 Programming Languages and Technologies wich I'm proficient
