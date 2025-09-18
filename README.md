@@ -37,3 +37,8 @@ Software Engineer | C# .NET Developer | Backend
 - 🧩 Linux, WSL, FastApi
 - 🚀 HTML, CSS, Motoko (Blockchain ICP)
 - ☁️ Azure
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DavdJass.DavdJass" alt="Visitor Badge">
+</p>
+
