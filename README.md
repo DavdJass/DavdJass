@@ -1,21 +1,10 @@
 ## Hey it´s David 👋
+<img src="https://github.com/user-attachments/assets/c8a1df92-35eb-4ef5-ace0-56403661b90d" alt="David profile" style="float: right; margin: 0 0 15px 15px;" width="255">
+<img src="https://github.com/user-attachments/assets/81b02f99-6580-4841-9566-f5f2510efe76" alt="David profile" style="float: right; margin: 0 0 15px 15px;" width="250">
+<img src="https://github.com/user-attachments/assets/5d09453a-0908-479d-85b1-10dbbc061d51" alt="David profile" style="float: right; margin: 0 0 15px 15px;" width="400">
 
 Software Engineer | C# .NET Developer | Backend
-<!--
-**DavdJass/DavdJass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-  -
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 🚀 About Me
 👨‍💻 Software Developer interested in building projects and participating in diverse contests such as hackathons and tournaments.
@@ -32,7 +21,7 @@ Here are some ideas to get you started:
   * HackMex IPN 2024 - Mexico |🎯Qualifying round
   * Talent Land Hackathon 2024 - Jalisco, Mexico |🏆Semifinalist
   * SmartSecurity Hackaton 2023 - Aguascalientes, Mexico |🎯Qualifying round
-* 📫 How to reach me: linkedin.com/in/davfigjass
+* 📫 How to reach me: linkedin.com/in/davfigjassç
 
 ## 🛠 Skills
 💻 Programming Languages and Technologies wich I'm proficient
