@@ -1,7 +1,6 @@
 ## Hey it´s David 👋
-<img src="https://github.com/user-attachments/assets/c8a1df92-35eb-4ef5-ace0-56403661b90d" alt="David profile" style="float: right; margin: 0 0 15px 15px;" width="255">
-<img src="https://github.com/user-attachments/assets/81b02f99-6580-4841-9566-f5f2510efe76" alt="David profile" style="float: right; margin: 0 0 15px 15px;" width="250">
-<img src="https://github.com/user-attachments/assets/5d09453a-0908-479d-85b1-10dbbc061d51" alt="David profile" style="float: right; margin: 0 0 15px 15px;" width="400">
+
+<img src="https://github.com/user-attachments/assets/5d09453a-0908-479d-85b1-10dbbc061d51" alt="David profile" style="float: right; margin: 0 0 15px 15px;" width="250">
 
 Software Engineer | C# .NET Developer | Backend
 
