@@ -15,10 +15,12 @@ Software Engineer | C# .NET Developer | Backend
   * RaiseYourHack by LabLab.ai Hackathon 2025 - 🌍WorldWide Remote |🎯Qualifying round
   * TalentLand Hackathon 2025 - Jalisco, Mexico |🏆Semifinalist
   * International Collegiate Programming Contests (ICPC) 2024 - Monterrey, Mexico |🏆 Mexico Finals
-  * Cybersecurity Hackathon 2024 - Aguascalientes, Mexico |🏆Semifinalist
-  * Hidrotechs Hackathon 2024 - Aguascalientes, Mexico |🏆Semifinalist
+  * Cybersecurity ICP Hackathon 2024 - Aguascalientes, Mexico |🏆Semifinalist
+  * Hidrotechs ICP Hackathon 2024 - Aguascalientes, Mexico |🏆Semifinalist
   * HackMex IPN 2024 - Mexico |🎯Qualifying round
+  * GameOn 2024 - Aguascalientes, Mexico | 🎯Qualifying round
   * Talent Land Hackathon 2024 - Jalisco, Mexico |🏆Semifinalist
+  * GameON 2023 - Aguascalientes, Mexico |🏆 Semifinalist
   * SmartSecurity Hackaton 2023 - Aguascalientes, Mexico |🎯Qualifying round
 * 📫 How to reach me: linkedin.com/in/davfigjass
 
