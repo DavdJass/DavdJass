@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/5d09453a-0908-479d-85b1-10dbbc061d51" alt="David profile" style="float: right; margin: 0 0 15px 15px;" width="250">
 
-Software Engineer | C# .NET Developer | Backend
+Software Engineer at McDonald's 🍔🍟
 
 
 ## 🚀 About Me
