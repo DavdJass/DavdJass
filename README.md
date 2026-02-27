@@ -9,7 +9,7 @@ Software Engineer at McDonald's 🍔🍟
 👨‍💻 Software Developer interested in building projects and participating in diverse contests such as hackathons and tournaments.
 
 * He/Him
-* 21 years
+* 22 years
 * 🇲🇽 Mexican 
 * Contests:
   * RaiseYourHack by LabLab.ai Hackathon 2025 - 🌍WorldWide Remote |🎯Qualifying round
