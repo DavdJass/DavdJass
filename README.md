@@ -12,6 +12,7 @@ Software Engineer at McDonald's 🍔🍟
 * 22 years
 * 🇲🇽 Mexican 
 * Contests:
+  * Talent Land Hackathon 2026 - CDMX, Mexico |🏆Semifinalist 
   * RaiseYourHack by LabLab.ai Hackathon 2025 - 🌍WorldWide Remote |🎯Qualifying round
   * TalentLand Hackathon 2025 - Jalisco, Mexico |🏆Semifinalist
   * International Collegiate Programming Contests (ICPC) 2024 - Monterrey, Mexico |🏆 Mexico Finals
