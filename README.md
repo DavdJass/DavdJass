@@ -1,6 +1,6 @@
 ## Hey it´s David 👋
 
-<img src="https://github.com/user-attachments/assets/a6834aa7-50a0-451c-9e62-dafabb1e481f" alt="David profile" style="float: right; margin: 0 0 15px 15px;" width="250">
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/3fb2a0c0-0252-4215-a518-db572d4bc20e" alt="David profile" style="float: right; margin: 0 0 15px 15px;" width="250"/>
 
 Software Engineer at McDonald's 🍔🍟
 
