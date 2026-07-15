@@ -53,6 +53,41 @@
 
 <div align="center">
 
+### 🚀 Top Highlights — National Finals
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🚀 Mexico Finals · 2024**
+<br/>
+### ICPC
+<sub>International Collegiate Programming Contest</sub>
+<br/>
+<sub>📍 Monterrey, Mexico</sub>
+
+</td>
+<td align="center" width="50%">
+
+**🚀 Finalist · 2026**
+<br/>
+### Coding Challenge Mexico
+<sub>National coding competition</sub>
+<br/>
+<sub>📍 Remote, Mexico</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>📋 Full timeline</sub>
+
 | Year | Event | Type | Location | Stage Reached |
 |:----:|:------|:----:|:--------:|:------:|
 | 2026 | **Coding Challenge Mexico** | 🧩 Hackathon | 🏙️ Remote, Mexico | 🚀 Finalist |
@@ -62,19 +97,21 @@
 | 2024 | **ICPC** – Int'l Collegiate Programming Contest | 🧮 Programming Contest | Monterrey, Mexico | 🚀 Mexico Finals |
 | 2024 | **Cybersecurity ICP Hackathon** | 🧩 Hackathon | Aguascalientes, Mexico | 🔥 Semifinal |
 | 2024 | **Hidrotechs ICP Hackathon** | 🧩 Hackathon | Aguascalientes, Mexico | 🔥 Semifinal |
-| 2024 | **HackMex IPN** | 🧮 Programming Contest | Mexico | 🎯 Qualifying Round |
-| 2024 | **GameOn** | 🧩 Hackathon | Aguascalientes, Mexico | 🎯 Qualifying Round |
+| 2024 | **HackMex IPN** | 🚩 CTF | Mexico | 🎯 Qualifying Round |
+| 2024 | **GameOn** | 🎮 Game Dev Competition | Aguascalientes, Mexico | 🎯 Qualifying Round |
 | 2024 | **Talent Land Hackathon** | 🧩 Hackathon | Jalisco, Mexico | 🔥 Semifinal |
-| 2023 | **GameON** | 🧩 Hackathon | Aguascalientes, Mexico | 🔥 Semifinal |
+| 2023 | **GameON** | 🎮 Game Dev Competition | Aguascalientes, Mexico | 🔥 Semifinal |
 | 2023 | **SmartSecurity Hackathon** | 🧩 Hackathon | Aguascalientes, Mexico | 🎯 Qualifying Round |
 
 </div>
 
 <div align="center">
 
-![Hackathons](https://img.shields.io/badge/🧩_Hackathons_Joined-10-8B5CF6?style=flat-square)
-![Contests](https://img.shields.io/badge/🧮_Programming_Contests-2-6366F1?style=flat-square)
-![Finals](https://img.shields.io/badge/🚀_Finalist_%2F_Finals-2-0EA5E9?style=flat-square)
+![Finals](https://img.shields.io/badge/🚀_Finalist_%2F_Finals-2-0EA5E9?style=for-the-badge)
+![Hackathons](https://img.shields.io/badge/🧩_Hackathons_Joined-8-8B5CF6?style=flat-square)
+![Contests](https://img.shields.io/badge/🧮_Programming_Contests-1-6366F1?style=flat-square)
+![CTF](https://img.shields.io/badge/🚩_CTF-1-EF4444?style=flat-square)
+![GameDev](https://img.shields.io/badge/🎮_Game_Dev_Competitions-2-EC4899?style=flat-square)
 ![Semifinals](https://img.shields.io/badge/🔥_Semifinals-6-F97316?style=flat-square)
 ![Qualifying](https://img.shields.io/badge/🎯_Qualifying_Rounds-4-22C55E?style=flat-square)
 
