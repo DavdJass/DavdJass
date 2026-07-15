@@ -1,19 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:8B5CF6&height=220&section=header&text=Hey%20it's%20David%20👋&fontSize=55&fontAlign=50&fontAlignY=35&desc=Software%20Engineer%20@%20McDonald's%20🍔&descAlign=50&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:06B6D4&height=230&section=header&text=Hey%20it's%20David%20👋&fontSize=55&fontColor=ffffff&fontAlign=50&fontAlignY=32&desc=Software%20Engineer%20@%20McDonald's%20🍔&descAlign=50&descAlignY=52&animation=fadeIn" width="100%"/>
 
-<img src="https://github.com/user-attachments/assets/3fb2a0c0-0252-4215-a518-db572d4bc20e" alt="David profile" width="180" style="border-radius: 50%; border: 4px solid #8B5CF6; margin-top: 10px;"/>
+<img src="https://wsrv.nl/?url=github.com/user-attachments/assets/3fb2a0c0-0252-4215-a518-db572d4bc20e&w=220&h=220&fit=cover&mask=circle" width="170"/>
 
 <br/>
+<sub>✨ <i>Software Developer · Hackathon Addict · Algorithm Enthusiast</i> ✨</sub>
+<br/><br/>
 
 <a href="https://linkedin.com/in/davfigjass"><img src="https://img.shields.io/badge/LinkedIn-davfigjass-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Mexico-🇲🇽-006341?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mexico-🇲🇽-EC4899?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Age-22-8B5CF6?style=for-the-badge"/>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=DavdJass.DavdJass&style=for-the-badge&color=0EA5E9"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=DavdJass.DavdJass&style=for-the-badge&color=06B6D4"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=80&lines=Software+Developer+%7C+Problem+Solver;Hackathon+%26+Competitive+Programming+Enthusiast;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=EC4899&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=80&lines=Building+things+that+(hopefully)+don't+crash+in+prod;Turning+coffee+%E2%98%95+into+working+code+since+2022;Always+chasing+the+next+hackathon+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:06B6D4&height=3" width="100%"/>
 
 </div>
 
@@ -21,23 +26,29 @@
 
 ## 🚀 About Me
 
-> 👨‍💻 Software Developer passionate about building projects and competing in diverse contests such as **hackathons** and **programming tournaments**.
+```bash
+David@github:~$ whoami
+> Software Engineer @ McDonald's 🍔 | 22 y/o | 🇲🇽 Mexican | He/Him
+
+David@github:~$ cat mission.txt
+> Build cool stuff. Compete every chance I get. Never stop learning.
+```
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Quick facts**
+**📌 Quick facts**
 - 🙋‍♂️ He/Him · 22 years old
-- 🇲🇽 Mexican
+- 🇲🇽 Based in Mexico
 - 🍔 Software Engineer @ **McDonald's**
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/davfigjass)
-- ⚡ Fun fact: 11 hackathons and counting
+- ⚡ Fun fact: 12 contests and counting
 
 </td>
 <td width="50%" valign="top">
 
-**What drives me**
+**💭 What drives me**
 - 🧠 Solving hard algorithmic problems
 - 🔥 Competing against the clock in hackathons
 - 🛠️ Shipping clean, well-architected code
@@ -47,7 +58,9 @@
 </tr>
 </table>
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:06B6D4&height=3" width="100%"/>
+</div>
 
 ## 🎮 Contests & Hackathons
 
@@ -107,17 +120,19 @@
 
 <div align="center">
 
-![Finals](https://img.shields.io/badge/🚀_Finalist_%2F_Finals-2-0EA5E9?style=for-the-badge)
+![Finals](https://img.shields.io/badge/🚀_Finalist_%2F_Finals-2-EC4899?style=for-the-badge)
 ![Hackathons](https://img.shields.io/badge/🧩_Hackathons_Joined-8-8B5CF6?style=flat-square)
 ![Contests](https://img.shields.io/badge/🧮_Programming_Contests-1-6366F1?style=flat-square)
 ![CTF](https://img.shields.io/badge/🚩_CTF-1-EF4444?style=flat-square)
-![GameDev](https://img.shields.io/badge/🎮_Game_Dev_Competitions-2-EC4899?style=flat-square)
+![GameDev](https://img.shields.io/badge/🎮_Game_Dev_Competitions-2-F472B6?style=flat-square)
 ![Semifinals](https://img.shields.io/badge/🔥_Semifinals-6-F97316?style=flat-square)
 ![Qualifying](https://img.shields.io/badge/🎯_Qualifying_Rounds-4-22C55E?style=flat-square)
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:06B6D4&height=3" width="100%"/>
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -141,38 +156,52 @@
 
 **🗣️ Languages**
 
-![English](https://img.shields.io/badge/English-Fluent-0EA5E9?style=for-the-badge&logo=googletranslate&logoColor=white)
-![Spanish](https://img.shields.io/badge/Español-Nativo-006341?style=for-the-badge&logo=googletranslate&logoColor=white)
+![English](https://img.shields.io/badge/English-Fluent-06B6D4?style=for-the-badge)
+![Spanish](https://img.shields.io/badge/Español-Nativo-EC4899?style=for-the-badge)
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:06B6D4&height=3" width="100%"/>
+</div>
+
+## 🌌 Currently
+
+- 🔭 Leveling up in **cloud & system design**
+- 🎯 2026 goal: turn a "Semifinalist" into a **Champion** 🏆
+- 🤝 Open to teaming up for the next hackathon or ICPC-style contest
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:06B6D4&height=3" width="100%"/>
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DavdJass&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DavdJass&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DavdJass&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DavdJass&theme=radical&hide_border=true&background=0D1117" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavdJass&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavdJass&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DavdJass&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DavdJass&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:06B6D4&height=3" width="100%"/>
+</div>
 
 ## 🤝 Connect with me
 
 <div align="center">
 
 <a href="https://linkedin.com/in/davfigjass"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/DavdJass"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/DavdJass"><img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0EA5E9&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:06B6D4&height=100&section=footer" width="100%"/>
 
 <sub>Thanks for stopping by! ⭐ from <b>David</b></sub>
 
